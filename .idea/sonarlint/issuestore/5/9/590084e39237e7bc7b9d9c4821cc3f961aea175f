@@ -1,0 +1,11 @@
+
+jsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¨ş’
+]"squid:SwitchLastCaseIsDefaultCheckĞ""Add a default case to this switch.(™‚ÅÛùÿÿÿÿ8â½©‘-
+X"squid:SwitchLastCaseIsDefaultCheckò""Add a default case to this switch.(Â˜¢¤8â½©‘-
+:squid:S3626—"Remove this redundant jump.(ûÁİ…8â½©‘-
+jsquid:S1301ò"KReplace this "switch" statement by "if" statements to increase readability.(Â˜¢¤8â½©‘-
+Ysquid:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8â½©‘-
+psquid:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿèšg8â½©‘-
+qsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÏøÅ8â½©‘-
+vsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éêÌ±üÿÿÿÿ8â½©‘-
+]squid:S1155¨">Use isEmpty() to check whether the collection is empty or not.(¾äÚí8â½©‘-

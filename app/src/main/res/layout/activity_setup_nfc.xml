@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/activity_margin"
+    android:background="@drawable/app_background"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    tools:context=".SetupNfcActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/back_text"
+        android:textColor="@color/dark_green"
+        android:textSize="32dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView1"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:text="Setup NFC"
+        android:textColor="@color/dark_green"
+        android:textSize="32dp" />
+
+    <AutoCompleteTextView
+        android:id="@+id/edit_value"
+        android:layout_width="307dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/activity_margin"
+        android:layout_marginTop="36dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:gravity="top"
+        android:hint="@string/edit_value"
+        android:isScrollContainer="true"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/button_write"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/button_green_start_beaming_disabled" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_write"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/illustration_instructions" />
+
+</RelativeLayout>

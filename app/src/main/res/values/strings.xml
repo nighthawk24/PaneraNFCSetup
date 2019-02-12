@@ -15,4 +15,11 @@
     <string name="error_text_empty">Error: empty</string>
     <string name="success_tag_written">Success: tag written</string>
     <string name="error_value_toobig">Error: value is too big: %1$d / %2$d</string>
+    <string name="back_text">&lt; Back</string>
+
+    <string-array name="tap_n_go_food_list">
+        <item>Chicken Caesar Wrap</item>
+        <item>Low-Fat Chicken Noodle Soup</item>
+        <item>Fuji Apple Salad with Chicken</item>
+    </string-array>
 </resources>

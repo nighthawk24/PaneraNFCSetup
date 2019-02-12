@@ -1,0 +1,9 @@
+
+Rsquid:S1141¡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+nsquid:S1450"WRemove the "mReadNfc" field and declare it as a local variable in the relevant methods.(ÌµÊÇ
+rsquid:S1450"[Remove the "mWriteButton" field and declare it as a local variable in the relevant methods.(ÌµÊÇ
+rsquid:S1450"[Remove the "mClearButton" field and declare it as a local variable in the relevant methods.(ÌµÊÇ
+Asquid:S1659"*Declare "mClearButton" on a separate line.(ÌµÊÇ
+wsquid:S1450"`Remove the "mNfcPendingIntent" field and declare it as a local variable in the relevant methods.(´°úˆ
+Nsquid:S11354"2Complete the task associated to this TODO comment.(¼‹ƒùÿÿÿÿ
+=squid:S1659"&Declare "mReadNfc" on a separate line.(ÌµÊÇ
